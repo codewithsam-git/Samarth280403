@@ -10,7 +10,7 @@
 - 📫 How to reach me **samarthb.2525@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/samarth-bhandare-5bbaba209/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
